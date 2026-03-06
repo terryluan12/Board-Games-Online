@@ -1,0 +1,9 @@
+[submodule "BoardGamesLib"]
+	path = BoardGamesLib
+	url = https://github.com/terryluan12/BoardGamesLib.git
+[submodule "Dogan-Proto"]
+	path = Dogan-Proto
+	url = https://github.com/terryluan12/Dogan-Proto.git
+[submodule "DoganService"]
+	path = DoganService
+	url = https://github.com/terryluan12/DoganService.git
